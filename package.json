@@ -1,12 +1,9 @@
 {
   "name": "jarvis",
+  "type": "module",
   "version": "1.0.0",
   "packageManager": "pnpm@10.32.1",
-  "description": "",
-  "author": "",
   "license": "MIT",
-  "keywords": [],
-  "main": "index.js",
   "scripts": {
     "lint": "eslint",
     "test": "echo \"Error: no test specified\" && exit 1"
